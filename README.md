@@ -58,9 +58,7 @@ data-project/
 │   └── processed/             # Final datasets ready for analysis or modeling
 │
 ├── notebooks/
-│   ├── 01_exploration.ipynb   # Exploratory data analysis
-│   ├── 02_feature_engineering.ipynb
-│   └── 03_modeling.ipynb
+│   ├── name.ipynb   # Exploratory data analysis
 │
 ├── src/
 │   ├── __init__.py
