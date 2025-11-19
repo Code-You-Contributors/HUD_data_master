@@ -1,3 +1,17 @@
+# Louisville Homelessness & Housing Outcomes (HUD + KCount)
+
+A data-driven analysis of homelessness trends and demographic subgroups in Louisville and the Commonwealth of Kentucky. This project combines Kentucky’s annual K-Count data with HUD’s national System Performance Measures to assess local need, identify key patterns, and support data-informed decision making for grants, community planning, and policy.
+
+# Project Objective
+
+The goal of this project is to:
+
+Clean, standardize, and integrate two public homelessness datasets: KCount (Kentucky’s Point-in-Time count) and HUD System Performance Measures.
+
+Produce clear visualizations of homelessness trends and subgroups across Kentucky counties.
+
+Highlight Louisville/Jefferson County (KY-500) as a priority region used frequently in needs assessments and federal grant applications.
+
 # Data Sources
 
 ## 1. Kentucky Housing Corporation – K-Count Results
