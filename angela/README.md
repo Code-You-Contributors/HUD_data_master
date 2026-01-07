@@ -1,6 +1,5 @@
 # Unsafe Outdoors: An Analysis of Extreme Temperature and Ozone Conditions in Louisville to Support Emergency Shelter Planning
 
-## (added areas with ??? to remind myself to add to sections as project progresses)
 ---
 ### Objective:
 This project analyzes temperature and ozone data in the Louisville Metro area to identify days when outdoor conditions become unsafe, particularly for individuals experiencing homelessness. By quantifying the frequency and severity of extreme weather and poor air quality, this project aims to provide data-driven evidence that supports the need for accessible indoor shelter and emergency response strategies during hazardous environmental conditions.
@@ -98,7 +97,7 @@ Variables from **full_df** (combines all 3 datasets):
 ### Technologies Used:
 Languages & Core Libraries:\
 *Python* – primary language for data analysis and project development\
-*Pandas** – for data cleaning, transformation, and analysis
+*Pandas* – for data cleaning, transformation, and analysis
 
 Visualization Tools:\
 *Matplotlib* – for basic charts and visualizations\
