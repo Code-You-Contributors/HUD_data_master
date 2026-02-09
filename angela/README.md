@@ -1,6 +1,5 @@
 # Unsafe Outdoors: An Analysis of Extreme Temperature and Ozone Conditions in Louisville to Support Emergency Shelter Planning
 
-## (added areas with ??? to remind myself to add to sections as project progresses)
 ---
 ### Objective:
 This project analyzes temperature and ozone data in the Louisville Metro area to identify days when outdoor conditions become unsafe, particularly for individuals experiencing homelessness. By quantifying the frequency and severity of extreme weather and poor air quality, this project aims to provide data-driven evidence that supports the need for accessible indoor shelter and emergency response strategies during hazardous environmental conditions.
@@ -22,9 +21,6 @@ This project uses publicly available temperature and ozone measurements from the
 
 - Highlight trends that may increase shelter demand
 
-- ??? more here?
-
-- ??? more here?
 
 The findings are intended to support organizations who provide or coordinate indoor shelter options during hazardous environmental conditions. Ultimately, this analysis underscores a simple truth backed by data: on certain days, being outdoors is not just uncomfortable — it’s dangerous.
 
@@ -42,7 +38,7 @@ Install the `requirements.txt` file
 
 Open `angela.ipynb`
 
--??? (add more here)?
+The file `Unsafe_Outdoors_presentation_slides.pdf` contains slides for a presentation of the data and visualizations
 
 When you are finished, deactivate the virtual environment and close the repository folder.
 
@@ -101,12 +97,12 @@ Variables from **full_df** (combines all 3 datasets):
 ### Technologies Used:
 Languages & Core Libraries:\
 *Python* – primary language for data analysis and project development\
-*Pandas** – for data cleaning, transformation, and analysis
+*Pandas* – for data cleaning, transformation, and analysis
 
 Visualization Tools:\
-Matplotlib* – for basic charts and visualizations
+*Matplotlib* – for basic charts and visualizations\
+*pypalettes*, *highlight_text*, *drawarrow*, *cycler* - for more advanced visualizations 
 
---??? others?
 
 Development Environment:\
 *Jupyter Notebook* – for exploratory data analysis and documenting workflows\
