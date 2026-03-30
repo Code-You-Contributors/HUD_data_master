@@ -1,4 +1,4 @@
-# Louisville Housing Inquality by Neighborhood
+# Louisville Housing Inequality by Neighborhood
 
 ## Project Overview
 How do housing conditions vary across Louisville neighborhoods?  
