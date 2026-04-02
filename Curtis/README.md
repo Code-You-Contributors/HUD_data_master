@@ -4,7 +4,7 @@
 How do housing conditions vary across Louisville neighborhoods?  
 
 The project goals are to:
-* Assign a rating for each neighborhood based on household income, rent, home value, rent burden, permits, and property maintenance inspections.
+* Assign a rating for each neighborhood based on household income, rent, home value, rent burden, building permits, and property maintenance inspections.
 * Compare and contrast findings with visualizations and provide insights not readily available at the neighborhood level.
 
 ## Data Sources
