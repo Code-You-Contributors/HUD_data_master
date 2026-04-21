@@ -16,7 +16,10 @@ The project goals are to:
     - Rent Burden B25070
     - Housing Age B25034
     - [Jefferson County Tract Codes 2020](https://www2.census.gov/geo/maps/DC2020/PL20/st21_ky/censustract_maps/c21111_jefferson/)
-* [Louisville Open Data](https://data.louisville.gov)
-    - Building Permits
+* [Louisville Open Data](https://data.louisvilleky.gov)
+    - Construction Permits*
     - Code Violations
     - Vacant Properties
+
+
+*This analysis uses active construction data as a proxy for investment due to limitations in historical permit data availability.
