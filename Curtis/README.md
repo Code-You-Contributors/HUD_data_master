@@ -1,11 +1,14 @@
 # Louisville Housing Inequality by Neighborhood
 
 ## Project Overview
-How do housing conditions vary across Louisville neighborhoods?  
+How do housing conditions vary across Louisville?  
 
 The project goals are to:
-* Assign a rating for each neighborhood based on household income, rent, home value, rent burden, building permits, and property maintenance inspections.
-* Compare and contrast findings with visualizations and provide insights not readily available at the neighborhood level.
+* Assign a rating for each census tract based on household income, rent, rent burden, home value, housing age, active building permits, and property maintenance inspections.
+* Compare and contrast findings with visualizations and provide insights.
+
+## Project Details
+* The original scope of the project was to analyze data at the neighborhood level in Louisville. However, it proved impossible to 1) accurately convert the census data to neighborhoods and 2) find a neighborhood shapefile containing neighborhood designations/boundaries that covered the entire city (including outer Jefferson county, surburban areas, etc.).
 
 ## Data Sources
 * [Census / American Community Survey (ACS)](https://data.census.gov)  
@@ -15,6 +18,7 @@ The project goals are to:
     - Poverty Rate S1701
     - Rent Burden B25070
     - Housing Age B25034
+    - [Kentucky Tracts Shapefile](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2023.html#list-tab-790442341)
     - [Jefferson County Tract Codes 2020](https://www2.census.gov/geo/maps/DC2020/PL20/st21_ky/censustract_maps/c21111_jefferson/)
 * [Louisville Open Data](https://data.louisvilleky.gov)
     - Construction Permits*
