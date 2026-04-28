@@ -1,10 +1,10 @@
 # Louisville Housing Inequality by Neighborhood
 
 ## Project Overview
-How do housing conditions vary across Louisville?  
+How do housing conditions vary across Louisville in 2024?  
 
 The project goals are to:
-* Assign a rating for each census tract based on household income, rent, rent burden, home value, housing age, active building permits, and property maintenance inspections.
+* Assign a rating for each census tract based on 2024 household income, rent, rent burden, home value, housing age, active building permits, and property maintenance inspections.
 * Compare and contrast findings with visualizations and provide insights.
 
 ## Project Details
@@ -26,6 +26,3 @@ The project goals are to:
     - Vacant Properties
 * [ArcGIS Hub](https://arc-gis-hub-home-arcgishub.hub.arcgis.com/)
     - [Louisville Neighborhood Shapefile](https://arc-gis-hub-home-arcgishub.hub.arcgis.com/datasets/e951c160f4724e379b91c242e7b467b7_0/explore?location=38.217033%2C-85.720880%2C13)
-
-
-*This analysis uses active construction data as a proxy for investment due to limitations in historical permit data availability.
