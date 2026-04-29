@@ -23,6 +23,8 @@ The project goals are to:
 * [Louisville Open Data](https://data.louisvilleky.gov)
     - Construction Permits*
     - Code Violations
-    - Vacant Properties
+    - ~~Vacant Properties~~ - data is outdated and unusable
 * [ArcGIS Hub](https://arc-gis-hub-home-arcgishub.hub.arcgis.com/)
     - [Louisville Neighborhood Shapefile](https://arc-gis-hub-home-arcgishub.hub.arcgis.com/datasets/e951c160f4724e379b91c242e7b467b7_0/explore?location=38.217033%2C-85.720880%2C13)
+* [Census Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
+    - [Kentucky Tract Shapefile](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2023&layergroup=Census+Tracts)
