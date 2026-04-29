@@ -22,7 +22,7 @@ The project goals are to:
     - [Jefferson County Tract Codes 2020](https://www2.census.gov/geo/maps/DC2020/PL20/st21_ky/censustract_maps/c21111_jefferson/)
 * [Louisville Open Data](https://data.louisvilleky.gov)
     - Construction Permits*
-    - Code Violations
+    - ~~Code Violations~~ - data is only for last 30 days and has no archive available for 2024
     - ~~Vacant Properties~~ - data is outdated and unusable
 * [ArcGIS Hub](https://arc-gis-hub-home-arcgishub.hub.arcgis.com/)
     - [Louisville Neighborhood Shapefile](https://arc-gis-hub-home-arcgishub.hub.arcgis.com/datasets/e951c160f4724e379b91c242e7b467b7_0/explore?location=38.217033%2C-85.720880%2C13)
