@@ -11,6 +11,7 @@ The project goals are to:
 * The original scope of the project was to analyze data at the neighborhood level in Louisville. However, it proved impossible to 1) accurately convert the census data to neighborhoods and 2) find a neighborhood shapefile containing neighborhood designations/boundaries that covered the entire city (including outer Jefferson county, surburban areas, etc.).
 * The project looks at and labels pre-1980 house builds as "older housing stock". Housing age by itself does not necessarily equate to poor condition, however, tracts with a higher concentration of older housing stock may indicate greater maintenance needs and infrastructure aging.
     - For example: Are lower-income tracts receiving less development while also having older housing stock?
+* All tract values and percentages use the estimated, median values from the source data.
 
 ## Data Sources
 * [Census / American Community Survey (ACS)](https://data.census.gov)  
