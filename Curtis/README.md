@@ -4,7 +4,7 @@
 How do housing conditions vary across Louisville in 2024?  
 
 The project goals are to:
-* Assign a rating for each census tract based on 2024 household income, rent, rent burden, home value, housing age, active building permits, and property maintenance inspections.
+* Assign a Need Index for each census tract based on 2024 household income, rent, rent burden, home value, housing age, and poverty rate, with active construction permits as an outcome variable.
 * Compare and contrast findings with visualizations and provide insights.
 
 ## Project Details
@@ -24,7 +24,7 @@ The project goals are to:
     - [Kentucky Tracts Shapefile](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2023.html#list-tab-790442341)
     - [Jefferson County Tract Codes 2020](https://www2.census.gov/geo/maps/DC2020/PL20/st21_ky/censustract_maps/c21111_jefferson/)
 * [Louisville Open Data](https://data.louisvilleky.gov)
-    - Construction Permits*
+    - Construction Permits
     - ~~Code Violations~~ - data is only for last 30 days and has no archive available for 2024
     - ~~Vacant Properties~~ - data is outdated and unusable
 * [ArcGIS Hub](https://arc-gis-hub-home-arcgishub.hub.arcgis.com/)
