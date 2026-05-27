@@ -1,7 +1,7 @@
 # Louisville Housing Inequality by Neighborhood
 
 ## Project Overview
-How do housing conditions vary across Louisville in 2024?  
+How do housing conditions vary across Louisville, KY in 2024?  
 
 The project goals are to:
 * Assign a Need Index for each census tract based on 2024 household income, rent, rent burden, home value, housing age, and poverty rate, with active construction permits as an outcome variable.
@@ -11,7 +11,7 @@ The project goals are to:
 * The original scope of the project was to analyze data at the neighborhood level in Louisville. However, it proved impossible to 1) accurately convert the census data to neighborhoods and 2) find a neighborhood shapefile containing neighborhood designations/boundaries that covered the entire city (including outer Jefferson county, surburban areas, etc.).
 * The project looks at and labels pre-1980 house builds as "older housing stock". Housing age by itself does not necessarily equate to poor condition, however, tracts with a higher concentration of older housing stock may indicate greater maintenance needs and infrastructure aging.
 * All tract values and percentages use the estimated, median values from the source data.
-* Tract 9801 encompasses the Louisville Muhammad Ali Airport, does not have any census data, and will show up noticeably blank in the chloropleths except for permits.
+* Tract 9801 encompasses the Louisville Muhammad Ali Airport, does not have any census data, and will show up noticeably blank in the chloropleths (except for permit counts).
 
 ## Conclusions
 * Do high-need areas receive more or less development?
