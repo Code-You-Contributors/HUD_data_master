@@ -46,6 +46,7 @@ The project goals are to:
 * The original scope of the project was to analyze data at the neighborhood level in Louisville. However, it proved impossible to 1) accurately convert the census data to neighborhoods and 2) find a neighborhood shapefile containing neighborhood designations/boundaries that covered the entire city (including outer Jefferson county, surburban areas, etc.). Instead, zip codes are used as a visual anchor to better present the visualizations.
 * The project looks at and labels pre-1980 house builds as "older housing stock". Housing age by itself does not necessarily equate to poor condition, however, tracts with a higher concentration of older housing stock may indicate greater maintenance needs and infrastructure aging.
 * All tract values and percentages use the estimated, median values from the source data.
+    - To note, less than 1% of the source data used to calculate need index was NA.
 * Tract 9801 encompasses the Louisville Muhammad Ali Airport, does not have any census data, and will show up noticeably blank in the chloropleths (except for permit counts).
 
 ## Conclusions
@@ -73,5 +74,6 @@ The project goals are to:
     - [Louisville Neighborhood Shapefile](https://arc-gis-hub-home-arcgishub.hub.arcgis.com/datasets/e951c160f4724e379b91c242e7b467b7_0/explore?location=38.217033%2C-85.720880%2C13)
 * [Census Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
     - [Kentucky Tract Shapefile](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2023&layergroup=Census+Tracts)
-*[Capital Impact](https://www.ciclt.net/)
+* [Capital Impact](https://www.ciclt.net/)
     - [Jefferson County Zip Codes and Cities](https://www.ciclt.net/sn/clt/capitolimpact/gw_ziplist.aspx?ClientCode=capitolimpact&State=ky&StName=kentucky&StFIPS=&FIPS=21111)
+    - Note: Manual created/edited to get the desired visual anchors for city/nighborhood names and locations for the final presentation choropleth.
