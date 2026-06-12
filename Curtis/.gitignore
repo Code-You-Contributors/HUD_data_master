@@ -1,3 +1,9 @@
-data/raw/archive
-data/processed/backup
+# Notebooks
 notes.ipynb
+
+# Source folder
+src/
+
+# Data backups
+data/raw/archive/
+data/processed/backup/
