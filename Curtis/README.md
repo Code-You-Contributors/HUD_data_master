@@ -30,7 +30,7 @@ The project goals are to:
 
 3. Clone the repository:  
 `git clone https://github.com/Code-You-Contributors/HUD_data_master`  
-`cd curtis`
+`cd Curtis`
 
 4. Install required dependencies:  
     `pip install -r requirements.txt`
@@ -47,11 +47,11 @@ The project goals are to:
 * The project looks at and labels pre-1980 house builds as "older housing stock". Housing age by itself does not necessarily equate to poor condition, however, tracts with a higher concentration of older housing stock may indicate greater maintenance needs and infrastructure aging.
 * All tract values and percentages use the estimated, median values from the source data.
     - To note, less than 1% of the source data used to calculate Need Index was NA.
-* Tract 9801 encompasses the Louisville Muhammad Ali Airport, does not have any census data, and will show up noticeably blank in the chloropleths (except for permit counts).
+* Tract 9801 encompasses the Louisville Muhammad Ali Airport, does not have any census data, and will show up noticeably blank in the choropleths (except for permit counts).
 
 ## Conclusions
 * Louisville's census tracts average moderate to high housing need.
-* Lower need areas are receiving 3 times more development overall than higher need areas.
+* Of the top 30 tracts for active permits, lower need areas are receiving approximately 3 times more development overall than higher need areas.
 * There is a signigicant divide in development and need between western and eastern halves of Louisville.
 * Two-thirds of Louisville's housing units were built pre-1980 (older housing stock).
 * Household income is higher than the rest of Kentucky by ~9% but lower than the national average by ~16%.
