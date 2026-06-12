@@ -49,7 +49,7 @@ The project goals are to:
     - To note, less than 1% of the source data used to calculate Need Index was NA.
 * Tract 9801 encompasses the Louisville Muhammad Ali Airport, does not have any census data, and will show up noticeably blank in the choropleths (except for permit counts).
 
-## Conclusions
+## Conclusions (housing_need_presentation.pdf)
 * Louisville's census tracts average moderate to high housing need.
 * Of the top 30 tracts for active permits, lower need areas are receiving approximately 3 times more development overall than higher need areas.
 * There is a signigicant divide in development and need between western and eastern halves of Louisville.
