@@ -38,22 +38,23 @@ The project goals are to:
 ## Running the Project
 5. Open the project folder in VS Code.
 
-6. Run the following notebooks **in order** using "Run All":  
+6. Run the following notebooks in order using "Run All":  
     - curtis.ipynb
     - visualizations.ipynb
 
 ## Project Details
-* The original scope of the project was to analyze data at the neighborhood level in Louisville. However, it proved impossible to 1) accurately convert the census data to neighborhoods and 2) find a neighborhood shapefile containing neighborhood designations/boundaries that covered the entire city (including outer Jefferson county, surburban areas, etc.). Instead, zip codes are used as a visual anchor to better present the visualizations.
+* The original scope of the project was to analyze data at the neighborhood level in Louisville. However, it proved impossible to 1) accurately convert the census data to neighborhoods and 2) find a neighborhood shapefile containing neighborhood designations/boundaries that covered the entire city (including outer Jefferson county, surburban areas, etc.). Instead, city/neighborhood names are set in their estimated areas as a visual anchor to better present the visualizations.
 * The project looks at and labels pre-1980 house builds as "older housing stock". Housing age by itself does not necessarily equate to poor condition, however, tracts with a higher concentration of older housing stock may indicate greater maintenance needs and infrastructure aging.
 * All tract values and percentages use the estimated, median values from the source data.
-    - To note, less than 1% of the source data used to calculate need index was NA.
+    - To note, less than 1% of the source data used to calculate Need Index was NA.
 * Tract 9801 encompasses the Louisville Muhammad Ali Airport, does not have any census data, and will show up noticeably blank in the chloropleths (except for permit counts).
 
 ## Conclusions
-* Do high-need areas receive more or less development?
-* Are lower-income tracts receiving less development while also having older housing stock?
-* Which tracts/areas of the city have the highest need index?
-
+* Louisville's census tracts average moderate to high housing need.
+* Lower need areas are receiving 3 times more development overall than higher need areas.
+* There is a signigicant divide in development and need between western and eastern halves of Louisville.
+* Two-thirds of Louisville's housing units were built pre-1980 (older housing stock).
+* Household income is higher than the rest of Kentucky by ~9% but lower than the national average by ~16%.
 
 ## Data Sources
 * [Census / American Community Survey (ACS)](https://data.census.gov)  
